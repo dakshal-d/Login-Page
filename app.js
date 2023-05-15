@@ -33,7 +33,7 @@ app.post("/",function(req,res){
 
     // const options={
     //     method: "POST",
-    //     auth: "dakshal2002:05fc47dd63c6666975405fc622ea4e06-us21"
+
     // }
     const client = require("@mailchimp/mailchimp_marketing");
 
@@ -66,6 +66,4 @@ app.listen(3000, function(){
 });
 
 
-//api key=="05fc47dd63c6666975405fc622ea4e06-us21"  mailchimp
 //name = DD-Newsletter
-//bb47d39090
